@@ -3,8 +3,6 @@
 ```bash= 
 anaconda-navigator
 ```
-<<<<<<< HEAD
-=======
 ### conda 
 * conda search package
 * conda install package
@@ -12,4 +10,3 @@ anaconda-navigator
 
 ### LabelEncoding and OneHotEncoding
 * [Label Encoder vs. One Hot Encoder in Machine Learning](https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)
->>>>>>> tmp01
