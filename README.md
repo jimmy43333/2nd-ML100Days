@@ -14,14 +14,21 @@ conda list
 ###### 資料清理前處理
 <table border="0">
  <tr><td>* HW1 : Think about data and plot</td>
-     <td>* HW6 : Outliers </td></tr>
- <tr><td>* HW2 : Read data to DataFrame</td>
-     <td>* HW7 : Normalize with quantile </td></tr>
- <tr><td>* HW3 : Get picture from web address</td>
-     <td>* HW8 : DataFrame manipulate</td></tr>
- <tr><td>* HW4 : OneHotEncoding</td>
      <td>* HW9 : Correlation Coefficient</td></tr>
- <tr><td>* HW5 : Plot the data</td></tr>
+ <tr><td>* HW2 : Read data to DataFrame</td>
+     <td>* HW10 :Correlation Coefficient and plot</td></tr>
+ <tr><td>* HW3 : Get picture from web address</td>
+     <td>* HW11 : KDEplots</td></tr>
+ <tr><td>* HW4 : OneHotEncoding</td>
+     <td>* HW12 : Discretizing</td></tr>
+ <tr><td>* HW5 : Plot the data</td>
+     <td>* HW13 : Discretizing_implement</td></tr>
+ <tr><td>* HW6 : Outliers</td>
+     <td>* HW14 : </td></tr>
+ <tr><td>* HW7 : Normalize with quantile</td>
+     <td>* HW15 : </td></tr>
+ <tr><td>* HW8 : DataFrame manipulate</td>
+     <td>* HW16 : </td></tr>
 </table>
 
 ### LabelEncoding and OneHotEncoding
