@@ -1,18 +1,20 @@
 # 2nd-ML100Days
-### Introduction
-### Launch
+## Introduction
+## Launch
 #### Activate the anaconda with terminal in ubnutu 18.04
+
 ```bash= 
 anaconda-navigator
 ```
 #### conda 
+
 ```bash= 
 conda search package
 conda install package
 conda list
 ```
 
-### Table of contents
+## Table of contents
 ###### 資料清理前處理
 <table border="0">
  <tr><td> HW1 : Think about data and plot</td>
@@ -73,7 +75,7 @@ conda list
      <td> HW46 : </td></tr>
 </table>
 
-### Learning notes
+## Learning notes
 #### LabelEncoding and OneHotEncoding
 * [Label Encoder vs. One Hot Encoder in Machine Learning](https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-in-machine-learning-3fc273365621)
 #### 去除偏態 ： 對數去偏，方根去偏，分佈去偏
